@@ -1,0 +1,7 @@
+{
+    "explorer.expandSingleFolderWorkspaces": true,
+    "npm.enableRunFromFolder": false,
+    "vsicons.associations.folders": [],
+    "vsicons.presets.hideFolders": false,
+    "explorer.compactFolders": false
+}
